@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flo0x
 - 👀 I’m interested in Organization Wallets
-- 🌱 I’m currently learning W3C
-- 💞️ I’m looking to collaborate on SSI Projects 
+- 🌱 I’m currently learning Wallet Stack (SSI,etc)
+- 💞️ I’m looking to collaborate on building new wallets
 - 📫 How to reach me : email
 
 <!---
